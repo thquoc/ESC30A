@@ -1,6 +1,6 @@
 ## Danh sách linh kiện
 
-| Tên | Giá trị | Ghi chú |
+| Thông số |Tham chiếu  | Giá trị |
 |-----|--------|--------|
 | R1  | 10Ω    | Snubber |
 | C1  | 1nF    | Snubber |
