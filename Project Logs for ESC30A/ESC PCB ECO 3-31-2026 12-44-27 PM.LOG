@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=CN1 Old DesignItemId=HX PH254-01-04-Z-L11.5 STRAIGHT PIN HEADER New DesignItemId=533980471
+Change Component Footprint: Designator=CN1 Old Footprint=HDR-TH_4P-HX-PH254-01-04-Z-L11.5 New Footprint=CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB
+Change Component Comment : Designator=CN1 Old Comment=4PIN New Comment=533980471
+Change Component Description : Designator=CN1 Old Description=Pin Header 1 2.5mm 6mm -40?~+105? 3mm 4P 2.54mm 3A 1kV 1x4P Through Hole,P=2.54mm Headers, Male Pins RoHS New Description=4P PicoBlade(MX 1.25) 1x4P Tin -40?~+105? White 1.25mm 125V 4 1A 1 Surface Mount,Vertical SMD,P=1.25mm Headers, Male Pins RoHS
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Member To Class: ClassName=ESC Member=Component C8 100uF
+Added Member To Class: ClassName=ESC Member=Component L1 47uH
+Add Class Member: Failed to add class member : Component MOTOR_U1 PAD
+Added Member To Class: ClassName=ESC Member=Component Q3 MOSFET N-CH 80V 100A SOP-8-Advance

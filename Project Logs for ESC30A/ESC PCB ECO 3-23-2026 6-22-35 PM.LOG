@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=POWER_LOAD Pin=C38-1
+Removed Pin From Net: NetName=SL_C Pin=C38-2
+Removed Pin From Net: NetName=POWER_LOAD Pin=C39-1
+Removed Pin From Net: NetName=SL_C Pin=C39-2
+Removed Pin From Net: NetName=POWER_LOAD Pin=C40-1
+Removed Pin From Net: NetName=SL_C Pin=C40-2
+Removed Pin From Net: NetName=POWER_LOAD Pin=C41-1
+Removed Pin From Net: NetName=SL_C Pin=C41-2
+Removed Pin From Net: NetName=POWER_LOAD Pin=C44-1
+Removed Pin From Net: NetName=SL_C Pin=C44-2
+Removed Pin From Net: NetName=POWER_LOAD Pin=C45-1
+Removed Pin From Net: NetName=SL_C Pin=C45-2
+Removed Member From Class: ClassName=ESC Member=C38
+Removed Member From Class: ClassName=ESC Member=C39
+Removed Member From Class: ClassName=ESC Member=C40
+Removed Member From Class: ClassName=ESC Member=C41
+Removed Member From Class: ClassName=ESC Member=C44
+Removed Member From Class: ClassName=ESC Member=C45
+Added Component: Designator=J5(2way_MP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J6(2way_MP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=J5-1
+Added Pin To Net: NetName=DGND Pin=J5-2
+Added Pin To Net: NetName=DGND Pin=J6-1
+Added Pin To Net: NetName=SL_C Pin=J6-2
+Add Pin To Net: Unknown Pin: Pin U1-70
+Added Member To Class: ClassName=ESC Member=Component J5 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J6 2 way net tie junction

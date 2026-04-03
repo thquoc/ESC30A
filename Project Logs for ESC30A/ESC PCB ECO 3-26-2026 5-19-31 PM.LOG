@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=CSAI Member=SN1_N
+Removed Member From Class: ClassName=CSAI Member=SN2_N
+Removed Member From Class: ClassName=CSAI Member=SP1_P
+Removed Member From Class: ClassName=CSAI Member=SP2_P
+Change Net Name : Old Net Name=CAN_H New Net Name=CAN_P
+Change Net Name : Old Net Name=CAN_L New Net Name=CAN_N
+Change Net Name : Old Net Name=SN1_N New Net Name=S1_N
+Change Net Name : Old Net Name=SN2_N New Net Name=S2_N
+Change Net Name : Old Net Name=SP1_P New Net Name=S1_P
+Change Net Name : Old Net Name=SP2_P New Net Name=S2_P
+Added Differential Pair: Name=CAN
+Added Differential Pair: Name=S1
+Added Differential Pair: Name=S2
+Added Member To Class: ClassName=ESC Member=Component C28 1nF
+Added Member To Class: ClassName=ESC Member=Component C29 1nF
+Added Member To Class: ClassName=CSAI Member=Wire S1_N
+Added Member To Class: ClassName=CSAI Member=Wire S1_P
+Added Member To Class: ClassName=CSAI Member=Wire S2_N
+Added Member To Class: ClassName=CSAI Member=Wire S2_P
+Added Class: Name=DIFF

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C54-1
+Added Component: Designator=J6(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=AGND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=AGND Pin=J6-2
+Added Member To Class: ClassName=ESC Member=Component J6 2 way net tie junction

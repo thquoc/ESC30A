@@ -1,0 +1,180 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C41
+Change Component Designator: OldDesignator=C2 NewDesignator=C40
+Change Component Designator: OldDesignator=C3 NewDesignator=C21
+Change Component Designator: OldDesignator=C5 NewDesignator=C23
+Change Component Designator: OldDesignator=C6 NewDesignator=C42
+Change Component Designator: OldDesignator=C7 NewDesignator=C27
+Change Component Designator: OldDesignator=C8 NewDesignator=C26
+Change Component Designator: OldDesignator=C9 NewDesignator=C25
+Change Component Designator: OldDesignator=C10 NewDesignator=C22
+Change Component Designator: OldDesignator=C11 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C3
+Change Component Designator: OldDesignator=C14 NewDesignator=C4
+Change Component Designator: OldDesignator=C15 NewDesignator=C7
+Change Component Designator: OldDesignator=C16 NewDesignator=C6
+Change Component Designator: OldDesignator=C17 NewDesignator=C39
+Change Component Designator: OldDesignator=C18 NewDesignator=C38
+Change Component Designator: OldDesignator=C19 NewDesignator=C37
+Change Component Designator: OldDesignator=C20 NewDesignator=C36
+Change Component Designator: OldDesignator=C21 NewDesignator=C12
+Change Component Designator: OldDesignator=C22 NewDesignator=C10
+Change Component Designator: OldDesignator=C23 NewDesignator=C11
+Change Component Designator: OldDesignator=C24 NewDesignator=C19
+Change Component Designator: OldDesignator=C25 NewDesignator=C17
+Change Component Designator: OldDesignator=C26 NewDesignator=C18
+Change Component Designator: OldDesignator=C27 NewDesignator=C2
+Change Component Designator: OldDesignator=C28 NewDesignator=C1
+Change Component Designator: OldDesignator=C29 NewDesignator=C13
+Change Component Designator: OldDesignator=C30 NewDesignator=C52
+Change Component Designator: OldDesignator=C31 NewDesignator=C50
+Change Component Designator: OldDesignator=C32 NewDesignator=C15
+Change Component Designator: OldDesignator=C33 NewDesignator=C16
+Change Component Designator: OldDesignator=C34 NewDesignator=C14
+Change Component Designator: OldDesignator=C35 NewDesignator=C20
+Change Component Designator: OldDesignator=C36 NewDesignator=C30
+Change Component Designator: OldDesignator=C37 NewDesignator=C32
+Change Component Designator: OldDesignator=C38 NewDesignator=C28
+Change Component Designator: OldDesignator=C39 NewDesignator=C33
+Change Component Designator: OldDesignator=C40 NewDesignator=C31
+Change Component Designator: OldDesignator=C41 NewDesignator=C29
+Change Component Designator: OldDesignator=C42 NewDesignator=C48
+Change Component Designator: OldDesignator=C43 NewDesignator=C35
+Change Component Designator: OldDesignator=C44 NewDesignator=C34
+Change Component Designator: OldDesignator=C45 NewDesignator=C49
+Change Component Designator: OldDesignator=C46 NewDesignator=C5
+Change Component Designator: OldDesignator=C47 NewDesignator=C44
+Change Component Designator: OldDesignator=C48 NewDesignator=C57
+Change Component Designator: OldDesignator=C49 NewDesignator=C43
+Change Component Designator: OldDesignator=C50 NewDesignator=C45
+Change Component Designator: OldDesignator=C51 NewDesignator=C56
+Change Component Designator: OldDesignator=C52 NewDesignator=C54
+Change Component Designator: OldDesignator=C53 NewDesignator=C58
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C46
+Change Component Designator: OldDesignator=C56 NewDesignator=C47
+Change Component Designator: OldDesignator=C57 NewDesignator=C55
+Change Component Designator: OldDesignator=C58 NewDesignator=C51
+Change Component Designator: OldDesignator=CAN N1 NewDesignator=J4
+Change Component Designator: OldDesignator=CAN P1 NewDesignator=J3
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=GND1 NewDesignator=J5
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Change Component Designator: OldDesignator=J1 NewDesignator=J6
+Change Component Designator: OldDesignator=J2 NewDesignator=J7
+Change Component Designator: OldDesignator=J3 NewDesignator=J10
+Change Component Designator: OldDesignator=J4 NewDesignator=J8
+Change Component Designator: OldDesignator=J5 NewDesignator=J11
+Change Component Designator: OldDesignator=J6 NewDesignator=J9
+Change Component Designator: OldDesignator=L1 NewDesignator=L3
+Change Component Designator: OldDesignator=L3 NewDesignator=L1
+Change Component Designator: OldDesignator=l4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q5
+Change Component Designator: OldDesignator=R1 NewDesignator=R26
+Change Component Designator: OldDesignator=R2 NewDesignator=R24
+Change Component Designator: OldDesignator=R3 NewDesignator=R25
+Change Component Designator: OldDesignator=R4 NewDesignator=R19
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R33
+Change Component Designator: OldDesignator=R9 NewDesignator=R20
+Change Component Designator: OldDesignator=R10 NewDesignator=R21
+Change Component Designator: OldDesignator=R11 NewDesignator=R18
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R6
+Change Component Designator: OldDesignator=R18 NewDesignator=R5
+Change Component Designator: OldDesignator=R19 NewDesignator=R7
+Change Component Designator: OldDesignator=R20 NewDesignator=R2
+Change Component Designator: OldDesignator=R21 NewDesignator=R1
+Change Component Designator: OldDesignator=R22 NewDesignator=R3
+Change Component Designator: OldDesignator=R23 NewDesignator=R10
+Change Component Designator: OldDesignator=R24 NewDesignator=R9
+Change Component Designator: OldDesignator=R25 NewDesignator=R12
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R22
+Change Component Designator: OldDesignator=R28 NewDesignator=R23
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R34
+Change Component Designator: OldDesignator=R32 NewDesignator=R28
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R27
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Added Member To Class: ClassName=ESC Member=Component C2 10uF
+Added Member To Class: ClassName=ESC Member=Component C11 10nF
+Added Member To Class: ClassName=ESC Member=Component C13 100nF
+Added Member To Class: ClassName=ESC Member=Component C16 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C21 100nF
+Added Member To Class: ClassName=ESC Member=Component C22 10uF
+Added Member To Class: ClassName=ESC Member=Component C23 10uF
+Added Member To Class: ClassName=ESC Member=Component C24 100nF
+Added Member To Class: ClassName=ESC Member=Component C25 10uF
+Added Member To Class: ClassName=ESC Member=Component C26 1uF
+Added Member To Class: ClassName=ESC Member=Component C27 100nF
+Added Member To Class: ClassName=ESC Member=Component C28 1nF
+Added Member To Class: ClassName=ESC Member=Component C32 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C33 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C36 100uF
+Added Member To Class: ClassName=ESC Member=Component C37 100uF
+Added Member To Class: ClassName=ESC Member=Component C38 100uF
+Added Member To Class: ClassName=ESC Member=Component C39 100uF
+Added Member To Class: ClassName=ESC Member=Component C40 220nF
+Added Member To Class: ClassName=ESC Member=Component C41 1uF
+Added Member To Class: ClassName=ESC Member=Component C42 10uF
+Added Member To Class: ClassName=ESC Member=Component C43 1uF
+Added Member To Class: ClassName=ESC Member=Component C44 100nF
+Added Member To Class: ClassName=ESC Member=Component C49 100nF
+Added Member To Class: ClassName=ESC Member=Component C52 100pF
+Added Member To Class: ClassName=ESC Member=Component C54 100nF
+Added Member To Class: ClassName=ESC Member=Component C55 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C56 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C57 18pF
+Added Member To Class: ClassName=ESC Member=Component C58 18pF
+Add Class Member: Failed to add class member : Component CN1 4PIN
+Added Member To Class: ClassName=ESC Member=Component D2 93.6V 1.5kW@10/1000us Unidirectional 58V SMC TVS Diodes RoHS
+Added Member To Class: ClassName=ESC Member=Component IC4 TSOT-23-8 OR Controllers, Ideal Diodes RoHS
+Add Class Member: Failed to add class member : Component J1 PAD
+Add Class Member: Failed to add class member : Component J2 PAD
+Added Member To Class: ClassName=ESC Member=Component J3 PAD
+Added Member To Class: ClassName=ESC Member=Component J4 PAD
+Added Member To Class: ClassName=ESC Member=Component J5 PAD
+Added Member To Class: ClassName=ESC Member=Component J6 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J7 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J8 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J9 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J10 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J11 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component L3 220O
+Added Member To Class: ClassName=ESC Member=Component Q6 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q8 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q9 TRANS NPN 40V 200mA SOT-416
+Added Member To Class: ClassName=ESC Member=Component R1 10O
+Added Member To Class: ClassName=ESC Member=Component R11 17.8kO
+Added Member To Class: ClassName=ESC Member=Component R15 8.06O
+Added Member To Class: ClassName=ESC Member=Component R17 10O
+Added Member To Class: ClassName=ESC Member=Component R18 10O
+Added Member To Class: ClassName=ESC Member=Component R19 10kO
+Added Member To Class: ClassName=ESC Member=Component R21 3.3mO
+Added Member To Class: ClassName=ESC Member=Component R24 100kO
+Added Member To Class: ClassName=ESC Member=Component R25 2.67kO
+Added Member To Class: ClassName=ESC Member=Component R29 120O
+Added Member To Class: ClassName=ESC Member=Component R31 10kO
+Added Member To Class: ClassName=ESC Member=Component R32 10kO
+Added Member To Class: ClassName=ESC Member=Component R33 33kO
+Added Member To Class: ClassName=ESC Member=Component R34 10kO
+Added Member To Class: ClassName=ESC Member=Component S2 Screw

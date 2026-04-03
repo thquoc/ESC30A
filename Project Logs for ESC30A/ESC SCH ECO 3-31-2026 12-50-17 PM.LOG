@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=CN1 Old Footprint=CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB New Footprint=HDR-TH_4P-HX-PH254-01-04-Z-L11.5
+Change Component Comment: Designator=CN1 Old Comment=533980471 New Comment=4PIN
+Change Component Designator: OldDesignator=MOTOR_U1 NewDesignator=MOTOR U
+Change Component Designator: OldDesignator=MOTOR_V1 NewDesignator=MOTOR V
+Change Component Designator: OldDesignator=MOTOR_W1 NewDesignator=MOTOR W

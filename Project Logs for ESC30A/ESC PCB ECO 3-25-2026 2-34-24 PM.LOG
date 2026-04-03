@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=TIME1 Member=BL
+Change Component Designator: OldDesignator=+ NewDesignator=J1
+Change Component Designator: OldDesignator=- NewDesignator=J2
+Change Component Designator: OldDesignator=MOTOR U NewDesignator=MOTOR_U1
+Change Component Designator: OldDesignator=MOTOR V NewDesignator=MOTOR_V1
+Change Component Designator: OldDesignator=MOTOR W NewDesignator=MOTOR_W1
+Added Component: Designator=CN1(CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB)
+Added Pin To Net: NetName=VDD_SPI Pin=CN1-1
+Added Pin To Net: NetName=JTMS/SWDIO Pin=CN1-2
+Added Pin To Net: NetName=JTCK/SWCLK Pin=CN1-3
+Added Pin To Net: NetName=DGND Pin=CN1-4
+Added Pin To Net: NetName=DGND Pin=CN1-5
+Added Pin To Net: NetName=DGND Pin=CN1-6
+Added Pin To Net: NetName=AL Pin=IC3-20
+Added Pin To Net: NetName=AL Pin=U1-33
+Added Pin To Net: NetName=AL Pin=U1-35
+Added Member To Class: ClassName=ESC Member=Component CN1 533980471

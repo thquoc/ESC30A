@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=FRC1206F10R0TS New DesignItemId=CRCW080510R0FKEAHP
+Change Component DesignItemId : Designator=R16 Old DesignItemId=FRC1206F10R0TS New DesignItemId=CRCW080510R0FKEAHP
+Change Component Footprint: Designator=R1 Old Footprint=R1206 New Footprint=R0805
+Change Component Footprint: Designator=R16 Old Footprint=R1206 New Footprint=R0805
+Change Component Description : Designator=R1 Old Description=10O ±1% 250mW 1206 Thick Film Resistor New Description=10O 500mW Thick Film Resistor ±100ppm/? ±1% 0805 Chip Resistor - Surface Mount RoHS
+Change Component Description : Designator=R16 Old Description=10O ±1% 250mW 1206 Thick Film Resistor New Description=10O 500mW Thick Film Resistor ±100ppm/? ±1% 0805 Chip Resistor - Surface Mount RoHS

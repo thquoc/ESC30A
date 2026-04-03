@@ -1,0 +1,20 @@
+Added Component: Designator=C8(CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD)
+Added Component: Designator=C36(CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD)
+Added Component: Designator=C37(CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD)
+Added Component: Designator=C38(CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD)
+Added Component: Designator=C39(CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD)
+Added Pin To Net: NetName=POWER_LOAD Pin=C8-1
+Added Pin To Net: NetName=PGND Pin=C8-2
+Added Pin To Net: NetName=POWER_LOAD Pin=C36-1
+Added Pin To Net: NetName=PGND Pin=C36-2
+Added Pin To Net: NetName=POWER_LOAD Pin=C37-1
+Added Pin To Net: NetName=PGND Pin=C37-2
+Added Pin To Net: NetName=POWER_LOAD Pin=C38-1
+Added Pin To Net: NetName=PGND Pin=C38-2
+Added Pin To Net: NetName=POWER_LOAD Pin=C39-1
+Added Pin To Net: NetName=PGND Pin=C39-2
+Added Member To Class: ClassName=ESC Member=Component C8 100uF
+Added Member To Class: ClassName=ESC Member=Component C36 100uF
+Added Member To Class: ClassName=ESC Member=Component C37 100uF
+Added Member To Class: ClassName=ESC Member=Component C38 100uF
+Added Member To Class: ClassName=ESC Member=Component C39 100uF

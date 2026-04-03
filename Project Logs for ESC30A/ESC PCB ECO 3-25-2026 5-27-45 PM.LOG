@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SH_A Pin=C13-2
+Removed Pin From Net: NetName=SH_B Pin=C15-2
+Removed Pin From Net: NetName=SH_C Pin=C20-2
+Removed Pin From Net: NetName=SH_C Pin=IC3-36
+Removed Pin From Net: NetName=SH_B Pin=IC3-41
+Removed Pin From Net: NetName=SH_A Pin=IC3-46
+Change Component Designator: OldDesignator=+ NewDesignator=J2
+Change Component Designator: OldDesignator=- NewDesignator=J1
+Added Component: Designator=J3(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J4(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J12(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SH_A Pin=J3-2
+Added Pin To Net: NetName=SH_B Pin=J4-2
+Added Pin To Net: NetName=SH_C Pin=J12-2
+Change Net Name : Old Net Name=SH_A New Net Name=NetC10_1
+Change Net Name : Old Net Name=SH_B New Net Name=NetC11_1
+Change Net Name : Old Net Name=SH_C New Net Name=NetC12_1
+Added Pin To Net: NetName=SH_A Pin=C13-2
+Added Pin To Net: NetName=SH_A Pin=IC3-46
+Added Pin To Net: NetName=SH_A Pin=J3-1
+Added Net: Name=SH_A
+Added Pin To Net: NetName=SH_B Pin=C15-2
+Added Pin To Net: NetName=SH_B Pin=IC3-41
+Added Pin To Net: NetName=SH_B Pin=J4-1
+Added Net: Name=SH_B
+Added Pin To Net: NetName=SH_C Pin=C20-2
+Added Pin To Net: NetName=SH_C Pin=IC3-36
+Added Pin To Net: NetName=SH_C Pin=J12-1
+Added Net: Name=SH_C
+Added Member To Class: ClassName=ESC Member=Component J2 PAD
+Added Member To Class: ClassName=ESC Member=Component J3 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J4 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J12 2 way net tie junction

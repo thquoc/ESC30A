@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=AGND Pin=C53-1
+Removed Pin From Net: NetName=AGND Pin=C54-1
+Removed Pin From Net: NetName=DGND Pin=CN1-5
+Removed Pin From Net: NetName=DGND Pin=CN1-6
+Removed Pin From Net: NetName=AGND Pin=J5-1
+Removed Pin From Net: NetName=DGND Pin=J5-2
+Removed Pin From Net: NetName=DGND Pin=J6-1
+Removed Pin From Net: NetName=CAN_P Pin=JP1-1
+Removed Pin From Net: NetName=CAN_N Pin=JP1-2
+Removed Pin From Net: NetName=DGND Pin=JP1-3
+Removed Member From Class: ClassName=ESC Member=J6
+Removed Member From Class: ClassName=ESC Member=JP1
+Removed Member From Class: ClassName=SPI3 Member=DGND
+Change Component Footprint: Designator=J5 Old Footprint=2way_MP New Footprint=PAD
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C40 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C41 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C36 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C37 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C38 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C39 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=CN1 Old Footprint=CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB New Footprint=HDR-TH_4P-HX-PH254-01-04-Z-L11.5
+Change Component Footprint: Designator=R11 Old Footprint=R0805 New Footprint=R0603
+Change Component Footprint: Designator=R4 Old Footprint=R1206 New Footprint=R0603
+Change Component Comment : Designator=J5 Old Comment=2 way net tie junction New Comment=PAD
+Change Component Comment : Designator=CN1 Old Comment=533980471 New Comment=4PIN
+Change Component Kind : Designator=J5 Old Kind=Net Tie New Kind=Standard
+Change component parameters: Designator = "J5" ("J5"); Footprint = "2way_MP"; UniqueID = "\XHBFLBDE" ("\XHBFLBDE")
+Added Component: Designator=J3(PAD)
+Added Component: Designator=J4(PAD)
+Added Pin To Net: NetName=DGND Pin=C4-2
+Added Pin To Net: NetName=DGND Pin=C5-1
+Added Pin To Net: NetName=DGND Pin=C8-2
+Added Pin To Net: NetName=DGND Pin=C19-1
+Added Pin To Net: NetName=DGND Pin=C21-1
+Added Pin To Net: NetName=DGND Pin=C36-2
+Added Pin To Net: NetName=DGND Pin=C37-2
+Added Pin To Net: NetName=DGND Pin=C38-2
+Added Pin To Net: NetName=DGND Pin=C39-2
+Added Pin To Net: NetName=DGND Pin=C41-1
+Added Pin To Net: NetName=DGND Pin=C53-1
+Added Pin To Net: NetName=DGND Pin=C54-1
+Added Pin To Net: NetName=DGND Pin=D2-1
+Added Pin To Net: NetName=DGND Pin=Dz1-2
+Added Pin To Net: NetName=DGND Pin=IC4-2
+Added Pin To Net: NetName=DGND Pin=J2-1
+Added Pin To Net: NetName=CAN_P Pin=J3-1
+Added Pin To Net: NetName=CAN_N Pin=J4-1
+Added Pin To Net: NetName=DGND Pin=J5-1
+Added Pin To Net: NetName=DGND Pin=J7-2
+Added Pin To Net: NetName=DGND Pin=J10-2
+Added Pin To Net: NetName=DGND Pin=J11-2
+Added Pin To Net: NetName=DGND Pin=Q6-1
+Added Pin To Net: NetName=DGND Pin=Q6-2
+Added Pin To Net: NetName=DGND Pin=Q6-3
+Added Pin To Net: NetName=DGND Pin=R20-1
+Added Pin To Net: NetName=DGND Pin=R21-1
+Added Pin To Net: NetName=DGND Pin=R25-1
+Change Net Name : Old Net Name=DGND New Net Name=GND
+Added Member To Class: ClassName=ESC Member=Component J3 PAD
+Added Member To Class: ClassName=ESC Member=Component J4 PAD
+Added Member To Class: ClassName=SPI3 Member=Wire GND
+Added Rule: Name=Schematic Supply Nets_9

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BH Pin=IC3-20
+Removed Pin From Net: NetName=AL Pin=U1-33
+Removed Pin From Net: NetName=AL Pin=U1-35
+Added Pin To Net: NetName=BL Pin=IC3-20
+Added Pin To Net: NetName=BL Pin=U1-35
+Added Net: Name=BL
+Added Member To Class: ClassName=TIME1 Member=Wire BL

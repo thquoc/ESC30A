@@ -1,0 +1,7 @@
+Added Component: Designator=IC2(SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR)
+Added Pin To Net: NetName=V_5V Pin=IC2-1
+Added Pin To Net: NetName=DGND Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=A3V3 Pin=IC2-5
+Add Pin To Net: Unknown Pin: Pin U1-70
+Added Member To Class: ClassName=ESC Member=Component IC2 500mA Low-Noise LDo Voltage Regulator
