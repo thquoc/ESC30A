@@ -1,0 +1,206 @@
+
+**** 12/15/21 17:12:12 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Downloads\dv7777\LM74502_PSPICE_TRANS\lm74502_trans-pspicefiles\l
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "LM74502_Startup.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lm74502_trans.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+
+*Analysis directives: 
+.TRAN  0 60m 0 100n 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) 
+.INC "..\LM74502_Startup.net" 
+
+
+
+**** INCLUDING LM74502_Startup.net ****
+* source LM74502_TRANS
+V_V1         VINA 0  
++PULSE 5 12 20m 1u 1u 1 2
+X_C3    0 VOUTA LM74502_Startup_C3 
+R_R1         N16773172 VINA  100k TC=0,0 
+C_C4         0 VINA  0.165u  
+R_RLOAD         0 VOUTA  {12/2}  
+R_R2         0 N16773172  3.48k TC=0,0 
+X_Q1          VINA GATE VOUTA DMT6007LFG
+C_C2         0 VOUTA  2.2u  
+D_D1         0 VINA SMBJ33A 
+C_C1         VCAP VINA  100n  
+X_U1          VINA GATE 0 0 N16773172 VINA VOUTA VCAP LM74502_TOP
+
+.subckt LM74502_Startup_C3 1 2  
+C_C3         1 _SR C_C3 220u  
+.model         C_C3 CAP C=1      
+RESR_C3         _SR 2 0.16   
+.ends LM74502_Startup_C3
+
+**** RESUMING LM74502_Startup.cir ****
+.END
+
+**** 12/15/21 17:12:12 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Downloads\dv7777\LM74502_PSPICE_TRANS\lm74502_trans-pspicefiles\l
+
+
+ ****     Capacitor MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_C3.C_C3       X_U1.C_C34      X_U1.C_C35      
+           C    1               1               1            
+
+
+**** 12/15/21 17:12:12 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Downloads\dv7777\LM74502_PSPICE_TRANS\lm74502_trans-pspicefiles\l
+
+
+ ****     Voltage Controlled Switch MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.X_S10._S10 X_U1.X_S6._S6   X_U1.X_S8._S8   X_U1.X_S14._S14 
+         RON    1.000000E-03     .1             1.000000E+06    4.000000E+06 
+        ROFF  100.000000E+06    1.000000E+06    1.000000E+12  100.000000E+06 
+         VON     .8              .8              .8              .8          
+        VOFF     .2              .2              .2              .2          
+
+
+               X_U1.X_S7._S7   X_U1.X_S15._S15 
+         RON     .1             4.000000E+06 
+        ROFF    2.560000E+06  100.000000E+06 
+         VON     .8              .8          
+        VOFF     .2              .2          
+
+
+Starting pseudo-transient algorithm.
+
+WARNING(ORPSIM-16534): Using high values of ITL4 for Speed Level > 0 may increase total simulation job time.
+
+ERROR -- Convergence problem in transient bias point calculation
+
+
+  Last node voltages tried were:
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+( GATE)   16.8880  ( VCAP)   16.8760  ( VINA)    5.0000  (VOUTA)    4.9968      
+
+(X_U1.RX)   16.8880                   (X_C3._SR)    4.9968                      
+
+(X_U1.CHG)    0.0000                  (X_U1.POR)    1.0000                      
+
+(X_U1.RTN) 62.19E-09                  (X_U1.V2V)     .6400                      
+
+(X_U1.VCP)   11.8770                  (N16773172)    -.2488                     
+
+(X_U1.EN_OK)    1.0000                (X_U1.CP_POR)    1.0000                   
+
+(X_U1.DISCHG)    1.0000               (X_U1.EN_CHG)    0.0000                   
+
+(X_U1.EN_DRV)    1.0000               (X_U1.EN_INT)    5.0000                   
+
+(X_U1.EN_SYS)    1.0000               (X_U1.N00259)    -.6000                   
+
+(X_U1.N00299)    4.9999               (X_U1.N01074) 62.19E-09                   
+
+(X_U1.N01138)     .6000               (X_U1.N01290)     .6000                   
+
+(X_U1.N07506)     .8000               (X_U1.N07512)   12.4000                   
+
+(X_U1.N09341)     .9000               (X_U1.N14077)    1.1000                   
+
+(X_U1.N14253)    3.9000               (X_U1.N23305)    6.5000                   
+
+(X_U1.POR_L1)    1.0000               (X_U1.EN_DELY)    1.0000                  
+
+(X_U1.EN_DRVB)    0.0000              (X_U1.EN_SYSB)    0.0000                  
+
+(X_U1.OV_DELY)    0.0000              (X_U1.EN_DISCHG)    1.0000                
+
+(X_U1.N16769384)   16.8760            (X_U1.N17218878)     .1000                
+
+(X_U1.N17218888)    -.0010            (X_U1.N17272108)    1.0000                
+
+(X_U1.N17310976)    -.6000            (X_U1.N17341066)    4.9968                
+
+(X_U1.N17342995)   11.8770            (X_U1.N17347404)   16.8760                
+
+(X_U1.N17347506)   16.8760            (X_U1.N17348560)    1.0000                
+
+(X_U1.N17353833)    1.0000            (X_U1.N17353864)    1.0000                
+
+(X_U1.N17353883)    1.0000            (X_U1.N17353898)    1.0000                
+
+(X_U1.N17353958)    1.0000            (X_U1.N17353963)    1.0000                
+
+(X_U1.N17353990)    1.2400            (X_U1.N17354065)    -.2488                
+
+(X_U1.N17354116)    0.0000            (X_U1.N17354154)    1.2300                
+
+(X_U1.N17363022)    0.0000            (X_U1.VCAPH_INT)   16.8760                
+
+(X_U1.N171654380)    1.1000           (X_U1.N173539223)     .9000               
+
+(X_U1.N173540393)    1.1000           (X_U1.SOURCE_INT)    4.9999               
+
+(X_U1.SOURCE_INT2)    5.0000          (X_U1.UVLO_OK_DELY)    1.0000         
+
+
+  These voltages failed to converge:
+
+    V(N16773172)              =   -2.671KV  \  -248.75mV
+    V(VOUTA)                  =     4.983V  \     4.997V
+    V(X_C3._SR)               =     4.986V  \     4.997V
+    V(X_Q1.2)                 =    337.98V  \     16.89V
+    V(X_Q1.3)                 =     4.984V  \     4.998V
+    V(GATE)                   =    337.98V  \     16.89V
+    V(X_Q1.12)                =    332.98V  \     11.89V
+    V(X_Q1.13)                =     14.36V  \     11.59V
+    V(X_Q1.15)                =    318.62V  \   301.59mV
+    V(X_U1.RX)                =   -309.10V  \     16.89V
+    V(X_U1.N17347506)         =     6.067V  \     16.88V
+    V(X_U1.N17354065)         =   -2.671KV  \  -248.75mV
+    V(X_U1.RTN)               =    55.95uV  \    62.19nV
+    V(X_U1.N17341066)         =     4.983V  \     4.997V
+    V(X_U1.X_U876.INM1)       =    2.673KV  \     1.479V
+
+  These supply currents failed to converge:
+
+    I(X_Q1.EGD)               =    -28.73A  \    -23.18A
+    I(X_U1.E_E7)              =   -5.215mA  \   236.05nA
+    I(X_U1.E_ABM1)            =    49.58nA  \    50.00nA
+    I(X_U1.E_E10)             =   794.43mA  \   124.03uA
+    I(V_V1)                   =  -834.04mA  \  -832.92mA
+    I(X_Q1.VFB)               =    47.47uA  \   -78.80nA
+
+  These devices failed to converge:
+    X_Q1.D1   X_Q1.DDG  X_Q1.D2   X_Q1.DSD  X_U1.X_U861.d1 X_U1.X_U5.d1 
+    X_Q1.M1   
+
+**** Interrupt ****

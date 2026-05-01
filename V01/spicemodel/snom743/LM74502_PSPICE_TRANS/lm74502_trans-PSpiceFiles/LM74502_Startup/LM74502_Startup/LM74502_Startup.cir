@@ -1,0 +1,19 @@
+** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_trans-pspicefiles\lm74502_startup\lm74502_startup.sim ] 
+
+** Creating circuit file "LM74502_Startup.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lm74502_trans.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+
+*Analysis directives: 
+.TRAN  0 60m 0 100n 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) 
+.INC "..\LM74502_Startup.net" 
+
+
+.END

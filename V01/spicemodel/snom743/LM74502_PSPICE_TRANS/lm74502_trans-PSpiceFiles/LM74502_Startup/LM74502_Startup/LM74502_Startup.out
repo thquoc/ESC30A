@@ -1,0 +1,226 @@
+
+**** 12/20/21 15:38:08 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_t
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "LM74502_Startup.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lm74502_trans.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+
+*Analysis directives: 
+.TRAN  0 60m 0 100n 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) 
+.INC "..\LM74502_Startup.net" 
+
+
+
+**** INCLUDING LM74502_Startup.net ****
+* source LM74502_TRANS
+V_V1         VINA 0  
++PULSE 0 40 1m 30m 1u 1 2
+X_C3    0 VOUTA LM74502_Startup_C3 
+R_R1         N16773172 VINA  100k TC=0,0 
+C_C4         0 VINA  0.165u  
+R_RLOAD         0 VOUTA  {12/2}  
+R_R2         0 N16773172  3.48k TC=0,0 
+X_Q1          VINA GATE VOUTA DMT6007LFG
+C_C2         0 VOUTA  2.2u  
+D_D1         0 VINA SMBJ33A 
+C_C1         VCAP VINA  100n  
+X_U1          VINA GATE 0 N16774384 N16773172 VINA VOUTA VCAP LM74502_TOP
+
+.subckt LM74502_Startup_C3 1 2  
+C_C3         1 _SR C_C3 220u  
+.model         C_C3 CAP C=1      
+RESR_C3         _SR 2 0.16   
+.ends LM74502_Startup_C3
+
+**** RESUMING LM74502_Startup.cir ****
+.END
+
+**** 12/20/21 15:38:08 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_t
+
+
+ ****     Capacitor MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_C3.C_C3       X_U1.C_C34      X_U1.C_C35      
+           C    1               1               1            
+
+
+**** 12/20/21 15:38:08 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_t
+
+
+ ****     Voltage Controlled Switch MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.X_S10._S10 X_U1.X_S6._S6   X_U1.X_S8._S8   X_U1.X_S14._S14 
+         RON    1.000000E-03     .1             1.000000E+06    4.000000E+06 
+        ROFF  100.000000E+06    1.000000E+06    1.000000E+12  100.000000E+06 
+         VON     .8              .8              .8              .8          
+        VOFF     .2              .2              .2              .2          
+
+
+               X_U1.X_S7._S7   
+         RON     .1          
+        ROFF    2.560000E+06 
+         VON     .8          
+        VOFF     .2          
+
+
+**** 12/20/21 15:38:08 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_t
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+( GATE)-73.70E-06  ( VCAP)-3.200E-15  ( VINA)    0.0000  (VOUTA) 5.958E-12      
+
+(X_U1.RX)-62.51E-09                   (X_C3._SR) 5.958E-12                      
+
+(X_U1.CHG)    1.0000                  (X_U1.POR)    0.0000                      
+
+(X_U1.RTN) 3.200E-15                  (X_U1.V2V)     .6400                      
+
+(X_U1.VCP) 3.200E-21                  (N16773172)    0.0000                     
+
+(X_U1.EN_OK)    0.0000                (X_U1.CP_POR)    0.0000                   
+
+(X_U1.DISCHG)    0.0000               (X_U1.EN_CHG)    0.0000                   
+
+(X_U1.EN_DRV)    0.0000               (X_U1.EN_INT)-3.200E-15                   
+
+(X_U1.EN_SYS)    0.0000               (X_U1.N00259)    -.6000                   
+
+(X_U1.N00299) 3.200E-27               (X_U1.N01074) 639.8E-21                   
+
+(X_U1.N01138)     .6000               (X_U1.N01290)     .6000                   
+
+(X_U1.N07506)     .8000               (X_U1.N07512)   12.4000                   
+
+(X_U1.N09341)     .9000               (X_U1.N14077)    1.1000                   
+
+(X_U1.N14253)    3.9000               (X_U1.N23305)    6.5000                   
+
+(X_U1.OV_INT)    0.0000               (X_U1.POR_L1)    1.0000                   
+
+(X_U1.EN_DELY)    0.0000              (X_U1.EN_DRVB)    1.0000                  
+
+(X_U1.EN_SYSB)    1.0000              (X_U1.OV_DELY)    0.0000                  
+
+(X_U1.EN_DISCHG)    0.0000            (X_U1.N16769384)-3.200E-15                
+
+(X_U1.N17218878)     .1000            (X_U1.N17218888)    -.0010                
+
+(X_U1.N17272108)    1.0000            (X_U1.N17310976)    -.6000                
+
+(X_U1.N17341066) 6.951E-12            (X_U1.N17342995) 3.200E-21                
+
+(X_U1.N17347404)-3.200E-15            (X_U1.N17347506)-3.200E-15                
+
+(X_U1.N17348560)    0.0000            (X_U1.N17353833)    0.0000                
+
+(X_U1.N17353864)    0.0000            (X_U1.N17353883)    0.0000                
+
+(X_U1.N17353898)    1.0000            (X_U1.N17353958)    0.0000                
+
+(X_U1.N17353963)    0.0000            (X_U1.N17353990)    1.2400                
+
+(X_U1.N17354116)    0.0000            (X_U1.N17354154)    1.2300                
+
+(X_U1.N17363022)    0.0000            (X_U1.VCAPH_INT)-1.003E-12                
+
+(X_U1.N171654380)    1.1000           (X_U1.N173539223)     .9000               
+
+(X_U1.N173540393)    1.1000           (X_U1.SOURCE_INT)-3.200E-15               
+
+(X_U1.SOURCE_INT2)    0.0000          (X_U1.UVLO_OK_DELY)    0.0000         
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -1.754E-16
+    X_U1.V_V5    0.000E+00
+    X_U1.V_V1    0.000E+00
+    X_U1.V_V6    0.000E+00
+    X_U1.V_V17   0.000E+00
+    X_U1.V_V19   0.000E+00
+    X_U1.V_V3    0.000E+00
+    X_U1.V_V4    0.000E+00
+    X_U1.V_V22   0.000E+00
+    X_U1.V_V21   0.000E+00
+    X_U1.V_V7    0.000E+00
+    X_U1.V_V8   -1.600E-12
+    X_U1.V_V2    0.000E+00
+    X_U1.V_V20   0.000E+00
+    X_U1.V_V18   0.000E+00
+    X_U1.V_V9    0.000E+00
+    X_U1.V_V14  -1.600E-12
+
+    TOTAL POWER DISSIPATION   1.92E-12  WATTS
+
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+
+
+          JOB CONCLUDED
+
+**** 12/20/21 15:38:08 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LM74502_Startup-LM74502_Startup"  [ C:\Users\a0229962\Desktop\LM74502_SPICE_model\dv7777\LM74502_PSPICE_TRANS\lm74502_t
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  License check-out time            =       47.02
+  Total job time (using Solver 1)   =      102.98
+

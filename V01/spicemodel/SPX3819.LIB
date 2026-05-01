@@ -1,0 +1,34 @@
+*====================================================
+* SPX3819M5-L-3-3 - Altium Compatible Model
+* Behavioral LDO Regulator
+*====================================================
+
+.SUBCKT SPX3819 VIN VOUT GND EN
+
+* PARAMETERS
+.PARAM VREF=3.3
+.PARAM VDROP=0.34
+.PARAM ILIM=0.9
+.PARAM ROUT=0.05
+
+* Enable logic (EN > 1V)
+EEN VEN 0 VALUE = { V(EN) > 1 }
+
+* Regulator core (with dropout)
+EREG VREG 0 VALUE = { V(VEN)*LIMIT(V(VIN)-VDROP, 0, VREF) }
+
+* Output resistance
+Rout VREG VOUT {ROUT}
+
+* Current sense
+Rsense VOUT VSENSE 0.01
+
+* Current limit clamp
+GCLAMP VOUT 0 VALUE = { 
+    IF(I(Rsense) > ILIM, -(I(Rsense)-ILIM)*5, 0)
+}
+
+* Ground reference
+RGND GND 0 1m
+
+.ENDS SPX3819

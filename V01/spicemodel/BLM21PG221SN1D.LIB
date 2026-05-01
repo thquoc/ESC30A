@@ -1,0 +1,13 @@
+.SUBCKT FB_220_ADV 1 2
+
+Rdc 1 2 0.045
+
+* low freq inductive
+L1 1 3 50n
+R1 3 2 1
+
+* high freq loss
+R2 1 2 200
+Cpar 1 2 2p
+
+.ends FB_220_ADV
