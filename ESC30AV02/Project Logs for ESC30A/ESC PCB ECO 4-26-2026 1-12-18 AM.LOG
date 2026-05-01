@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND-SMD_L7.0-W6.6_FXL0630 New Footprint=IND-SMD_L5.0-W5.0_FNR50XXS
+Change Component Footprint: Designator=L2 Old Footprint=IND-SMD_L7.0-W6.6_FXL0630 New Footprint=IND-SMD_L5.0-W5.0_FNR50XXS
+Change Component Footprint: Designator=D1 Old Footprint=SMC_L7.1-W6.2-LS8.1-RD New Footprint=SMA_L4.3-W2.6-LS5.2-RD
+Change Component Comment : Designator=D1 Old Comment=DIODE SCHOTTKY 100V DO-214AB New Comment=DIODE SCHOTTKY 100V SMA(DO-214AC)

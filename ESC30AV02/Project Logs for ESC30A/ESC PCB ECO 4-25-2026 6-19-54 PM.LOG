@@ -1,0 +1,8 @@
+Added Component: Designator=L1(IND-SMD_L7.0-W6.6_FXL0630)
+Added Component: Designator=L2(IND-SMD_L7.0-W6.6_FXL0630)
+Added Pin To Net: NetName=POWER_IN Pin=L1-1
+Added Pin To Net: NetName=POWER_BUCK Pin=L1-2
+Added Pin To Net: NetName=NetC3_1 Pin=L2-1
+Added Pin To Net: NetName=V_5V Pin=L2-2
+Added Member To Class: ClassName=ESC Member=Component L1 47uH
+Added Member To Class: ClassName=ESC Member=Component L2 47uH

@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=C40 Old DesignItemId=CC0805KKX7R0BB224 New DesignItemId=CGA0603X7S224K101JT
+Change Component DesignItemId : Designator=C41 Old DesignItemId=CGA0805X7R105K101MT New DesignItemId=GRM188D72A105KE01D
+Change Component Footprint: Designator=C40 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C41 Old Footprint=C0805 New Footprint=C0603
+Change Component Description : Designator=C41 Old Description=1uF ±10% 100V Ceramic Capacitor X7R 0805 New Description=1uF ±10% 100V Ceramic Capacitor X7T 0603
+Change Component Description : Designator=C40 Old Description=220nF ±10% 100V Ceramic Capacitor X7R 0805 New Description=220nF ±10% 100V Ceramic Capacitor X7S 0603
+Added Member To Class: ClassName=ESC Member=Component R2 10O

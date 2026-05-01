@@ -1,0 +1,103 @@
+Change Component DesignItemId : Designator=R12 Old DesignItemId=FRC0603F4302TS New DesignItemId=FRC0603F2492TS
+Change Component Comment : Designator=R12 Old Comment=43kO New Comment=24.9KO
+Change Component Description : Designator=R12 Old Description=43kO ±1% 100mW 0603 Thick Film Resistor New Description=24.9kO ±1% 100mW 0603 Thick Film Resistor
+Added Component: Designator=Q1(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q2(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q3(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q4(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q5(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q6(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q7(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Component: Designator=Q8(SOP-8_L5.0-W5.0-P1.27-LS6.0_TPH4R008NH-L1Q)
+Added Pin To Net: NetName=SH_A Pin=Q1-1
+Added Pin To Net: NetName=SH_A Pin=Q1-2
+Added Pin To Net: NetName=SH_A Pin=Q1-3
+Added Pin To Net: NetName=POWER_LOAD Pin=Q1-5
+Added Pin To Net: NetName=POWER_LOAD Pin=Q1-6
+Added Pin To Net: NetName=POWER_LOAD Pin=Q1-7
+Added Pin To Net: NetName=POWER_LOAD Pin=Q1-8
+Added Pin To Net: NetName=POWER_LOAD Pin=Q1-9
+Added Pin To Net: NetName=SH_C Pin=Q2-1
+Added Pin To Net: NetName=SH_C Pin=Q2-2
+Added Pin To Net: NetName=SH_C Pin=Q2-3
+Added Pin To Net: NetName=POWER_LOAD Pin=Q2-5
+Added Pin To Net: NetName=POWER_LOAD Pin=Q2-6
+Added Pin To Net: NetName=POWER_LOAD Pin=Q2-7
+Added Pin To Net: NetName=POWER_LOAD Pin=Q2-8
+Added Pin To Net: NetName=POWER_LOAD Pin=Q2-9
+Added Pin To Net: NetName=SH_B Pin=Q3-1
+Added Pin To Net: NetName=SH_B Pin=Q3-2
+Added Pin To Net: NetName=SH_B Pin=Q3-3
+Added Pin To Net: NetName=POWER_LOAD Pin=Q3-5
+Added Pin To Net: NetName=POWER_LOAD Pin=Q3-6
+Added Pin To Net: NetName=POWER_LOAD Pin=Q3-7
+Added Pin To Net: NetName=POWER_LOAD Pin=Q3-8
+Added Pin To Net: NetName=POWER_LOAD Pin=Q3-9
+Added Pin To Net: NetName=SL_A Pin=Q4-1
+Added Pin To Net: NetName=SL_A Pin=Q4-2
+Added Pin To Net: NetName=SL_A Pin=Q4-3
+Added Pin To Net: NetName=SH_A Pin=Q4-5
+Added Pin To Net: NetName=SH_A Pin=Q4-6
+Added Pin To Net: NetName=SH_A Pin=Q4-7
+Added Pin To Net: NetName=SH_A Pin=Q4-8
+Added Pin To Net: NetName=SH_A Pin=Q4-9
+Added Pin To Net: NetName=SL_B Pin=Q5-1
+Added Pin To Net: NetName=SL_B Pin=Q5-2
+Added Pin To Net: NetName=SL_B Pin=Q5-3
+Added Pin To Net: NetName=SH_B Pin=Q5-5
+Added Pin To Net: NetName=SH_B Pin=Q5-6
+Added Pin To Net: NetName=SH_B Pin=Q5-7
+Added Pin To Net: NetName=SH_B Pin=Q5-8
+Added Pin To Net: NetName=SH_B Pin=Q5-9
+Added Pin To Net: NetName=PGND Pin=Q6-1
+Added Pin To Net: NetName=PGND Pin=Q6-2
+Added Pin To Net: NetName=PGND Pin=Q6-3
+Added Pin To Net: NetName=SH_C Pin=Q6-5
+Added Pin To Net: NetName=SH_C Pin=Q6-6
+Added Pin To Net: NetName=SH_C Pin=Q6-7
+Added Pin To Net: NetName=SH_C Pin=Q6-8
+Added Pin To Net: NetName=SH_C Pin=Q6-9
+Added Pin To Net: NetName=NetIC4_8 Pin=Q7-1
+Added Pin To Net: NetName=NetIC4_8 Pin=Q7-2
+Added Pin To Net: NetName=NetIC4_8 Pin=Q7-3
+Added Pin To Net: NetName=NetIC4_6 Pin=Q7-4
+Added Pin To Net: NetName=POWER_IN Pin=Q7-5
+Added Pin To Net: NetName=POWER_IN Pin=Q7-6
+Added Pin To Net: NetName=POWER_IN Pin=Q7-7
+Added Pin To Net: NetName=POWER_IN Pin=Q7-8
+Added Pin To Net: NetName=POWER_IN Pin=Q7-9
+Added Pin To Net: NetName=NetIC4_8 Pin=Q8-1
+Added Pin To Net: NetName=NetIC4_8 Pin=Q8-2
+Added Pin To Net: NetName=NetIC4_8 Pin=Q8-3
+Added Pin To Net: NetName=NetIC4_6 Pin=Q8-4
+Added Pin To Net: NetName=POWER_LOAD Pin=Q8-5
+Added Pin To Net: NetName=POWER_LOAD Pin=Q8-6
+Added Pin To Net: NetName=POWER_LOAD Pin=Q8-7
+Added Pin To Net: NetName=POWER_LOAD Pin=Q8-8
+Added Pin To Net: NetName=POWER_LOAD Pin=Q8-9
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R5-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=NetQ2_4 Pin=R7-2
+Added Net: Name=NetQ2_4
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=R6-2
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetQ4_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ4_4 Pin=R13-2
+Added Net: Name=NetQ4_4
+Added Pin To Net: NetName=NetQ5_4 Pin=Q5-4
+Added Pin To Net: NetName=NetQ5_4 Pin=R14-2
+Added Net: Name=NetQ5_4
+Added Pin To Net: NetName=NetQ6_4 Pin=Q6-4
+Added Pin To Net: NetName=NetQ6_4 Pin=R15-2
+Added Net: Name=NetQ6_4
+Added Member To Class: ClassName=ESC Member=Component Q1 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q2 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q3 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q4 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q5 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q6 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q7 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q8 MOSFET N-CH 80V 100A SOP-8-Advance

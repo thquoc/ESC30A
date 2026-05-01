@@ -1,0 +1,6 @@
+Added Component: Designator=JP1(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_H Pin=JP1-1
+Added Pin To Net: NetName=CAN_L Pin=JP1-2
+Added Pin To Net: NetName=DGND Pin=JP1-3
+Added Member To Class: ClassName=ESC Member=Component JP1 JP3

@@ -1,0 +1,12 @@
+Added Component: Designator=S1(Screw Hole 4mm)
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Add Pin To Net: Unknown Pin: Pin U1-70
+Added Member To Class: ClassName=ESC Member=Component S1 Screw

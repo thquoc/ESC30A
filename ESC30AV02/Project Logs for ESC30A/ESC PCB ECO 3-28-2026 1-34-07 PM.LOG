@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=DGND Pin=C50-1
+Removed Pin From Net: NetName=DGND Pin=J5-2
+Removed Pin From Net: NetName=DGND Pin=J6-1
+Removed Member From Class: ClassName=ESC Member=J5
+Removed Member From Class: ClassName=ESC Member=J6
+Removed Member From Class: ClassName=SPI3 Member=DGND
+Added Pin To Net: NetName=DGND Pin=C4-2
+Added Pin To Net: NetName=DGND Pin=C5-1
+Added Pin To Net: NetName=DGND Pin=C8-2
+Added Pin To Net: NetName=DGND Pin=C19-1
+Added Pin To Net: NetName=DGND Pin=C21-1
+Added Pin To Net: NetName=DGND Pin=C23-1
+Added Pin To Net: NetName=DGND Pin=C24-1
+Added Pin To Net: NetName=DGND Pin=C30-1
+Added Pin To Net: NetName=DGND Pin=C31-2
+Added Pin To Net: NetName=DGND Pin=C36-2
+Added Pin To Net: NetName=DGND Pin=C37-2
+Added Pin To Net: NetName=DGND Pin=C38-2
+Added Pin To Net: NetName=DGND Pin=C39-2
+Added Pin To Net: NetName=DGND Pin=C41-1
+Added Pin To Net: NetName=DGND Pin=C53-1
+Added Pin To Net: NetName=DGND Pin=C54-1
+Added Pin To Net: NetName=DGND Pin=D2-1
+Added Pin To Net: NetName=DGND Pin=Dz1-2
+Added Pin To Net: NetName=DGND Pin=IC3-28
+Added Pin To Net: NetName=DGND Pin=IC4-2
+Added Pin To Net: NetName=DGND Pin=J2-1
+Added Pin To Net: NetName=DGND Pin=J7-2
+Added Pin To Net: NetName=DGND Pin=J10-2
+Added Pin To Net: NetName=DGND Pin=J11-2
+Added Pin To Net: NetName=DGND Pin=Q6-1
+Added Pin To Net: NetName=DGND Pin=Q6-2
+Added Pin To Net: NetName=DGND Pin=Q6-3
+Added Pin To Net: NetName=DGND Pin=Q9-2
+Added Pin To Net: NetName=DGND Pin=R20-1
+Added Pin To Net: NetName=DGND Pin=R21-1
+Added Pin To Net: NetName=DGND Pin=R25-1
+Added Pin To Net: NetName=DGND Pin=U1-12
+Add Pin To Net: Unknown Pin: Pin U1-70
+Change Net Name : Old Net Name=DGND New Net Name=GND
+Added Pin To Net: NetName=DGND Pin=C50-1
+Added Net: Name=DGND
+Added Member To Class: ClassName=SPI3 Member=Wire GND
+Added Rule: Name=Schematic Supply Nets_9

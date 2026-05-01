@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C6 Old DesignItemId=CS3225X7R476K160NRL New DesignItemId=GRM21BR61A476ME15L_1
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CS3225X7R476K160NRL New DesignItemId=GRM21BR61A476ME15L_1
+Change Component Footprint: Designator=C6 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=C7 Old Footprint=C1210 New Footprint=C0603
+Change Component Description : Designator=C6 Old Description=47uF ±10% 16V Ceramic Capacitor X7R 1210 New Description=47uF ±20% 10V Ceramic Capacitor X5R 0805
+Change Component Description : Designator=C7 Old Description=47uF ±10% 16V Ceramic Capacitor X7R 1210 New Description=47uF ±20% 10V Ceramic Capacitor X5R 0805

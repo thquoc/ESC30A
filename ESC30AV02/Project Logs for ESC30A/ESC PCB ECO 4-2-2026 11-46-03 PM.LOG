@@ -1,0 +1,125 @@
+Change Component Designator: OldDesignator=C4 NewDesignator=C24
+Added Member To Class: ClassName=ESC Member=Component C1 100nF
+Added Member To Class: ClassName=ESC Member=Component C2 10uF
+Added Member To Class: ClassName=ESC Member=Component C3 100nF
+Add Class Member: Failed to add class member : Component C4 10uF
+Added Member To Class: ClassName=ESC Member=Component C5 100nF
+Added Member To Class: ClassName=ESC Member=Component C6 47uF
+Added Member To Class: ClassName=ESC Member=Component C7 47uF
+Added Member To Class: ClassName=ESC Member=Component C8 100uF
+Added Member To Class: ClassName=ESC Member=Component C9 16nF
+Added Member To Class: ClassName=ESC Member=Component C10 10nF
+Added Member To Class: ClassName=ESC Member=Component C11 10nF
+Added Member To Class: ClassName=ESC Member=Component C12 10nF
+Added Member To Class: ClassName=ESC Member=Component C13 100nF
+Added Member To Class: ClassName=ESC Member=Component C14 220nF
+Added Member To Class: ClassName=ESC Member=Component C15 100nF
+Added Member To Class: ClassName=ESC Member=Component C16 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C17 10nF
+Added Member To Class: ClassName=ESC Member=Component C18 10nF
+Added Member To Class: ClassName=ESC Member=Component C19 10nF
+Added Member To Class: ClassName=ESC Member=Component C20 100nF
+Added Member To Class: ClassName=ESC Member=Component C21 100nF
+Added Member To Class: ClassName=ESC Member=Component C22 10uF
+Added Member To Class: ClassName=ESC Member=Component C23 10uF
+Added Member To Class: ClassName=ESC Member=Component C24 100nF
+Added Member To Class: ClassName=ESC Member=Component C25 10uF
+Added Member To Class: ClassName=ESC Member=Component C26 1uF
+Added Member To Class: ClassName=ESC Member=Component C27 100nF
+Added Member To Class: ClassName=ESC Member=Component C28 1nF
+Added Member To Class: ClassName=ESC Member=Component C29 1nF
+Added Member To Class: ClassName=ESC Member=Component C30 1uF
+Added Member To Class: ClassName=ESC Member=Component C31 1uF
+Added Member To Class: ClassName=ESC Member=Component C32 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C33 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C34 100nF
+Added Member To Class: ClassName=ESC Member=Component C35 4.7uF
+Added Member To Class: ClassName=ESC Member=Component C36 100uF
+Added Member To Class: ClassName=ESC Member=Component C37 100uF
+Added Member To Class: ClassName=ESC Member=Component C38 100uF
+Added Member To Class: ClassName=ESC Member=Component C39 100uF
+Added Member To Class: ClassName=ESC Member=Component C40 220nF
+Added Member To Class: ClassName=ESC Member=Component C41 1uF
+Added Member To Class: ClassName=ESC Member=Component C42 10uF
+Added Member To Class: ClassName=ESC Member=Component C43 1uF
+Added Member To Class: ClassName=ESC Member=Component C44 100nF
+Added Member To Class: ClassName=ESC Member=Component C45 100nF
+Added Member To Class: ClassName=ESC Member=Component C46 100nF
+Added Member To Class: ClassName=ESC Member=Component C47 100nF
+Added Member To Class: ClassName=ESC Member=Component C48 10uF
+Added Member To Class: ClassName=ESC Member=Component C49 100nF
+Added Member To Class: ClassName=ESC Member=Component C50 100nF
+Added Member To Class: ClassName=ESC Member=Component C51 100nF
+Added Member To Class: ClassName=ESC Member=Component C52 100pF
+Added Member To Class: ClassName=ESC Member=Component C53 1uF
+Added Member To Class: ClassName=ESC Member=Component C54 100nF
+Added Member To Class: ClassName=ESC Member=Component C55 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C56 2.2uF
+Added Member To Class: ClassName=ESC Member=Component C57 18pF
+Added Member To Class: ClassName=ESC Member=Component C58 18pF
+Add Class Member: Failed to add class member : Component CN1 4PIN
+Added Member To Class: ClassName=ESC Member=Component D1 DIODE SCHOTTKY 100V DO-214AB
+Added Member To Class: ClassName=ESC Member=Component D2 93.6V 1.5kW@10/1000us Unidirectional 58V SMC TVS Diodes RoHS
+Added Member To Class: ClassName=ESC Member=Component IC1 60V 3A Step-Down Converter
+Added Member To Class: ClassName=ESC Member=Component IC3 DRV8301 Three-Phase Gate Driver With Dual Current Shunt Amplifiers and Buck Regulator
+Added Member To Class: ClassName=ESC Member=Component IC4 TSOT-23-8 OR Controllers, Ideal Diodes RoHS
+Added Member To Class: ClassName=ESC Member=Component J1 PAD
+Added Member To Class: ClassName=ESC Member=Component J2 PAD
+Added Member To Class: ClassName=ESC Member=Component J3 PAD
+Added Member To Class: ClassName=ESC Member=Component J4 PAD
+Added Member To Class: ClassName=ESC Member=Component J5 PAD
+Added Member To Class: ClassName=ESC Member=Component J6 2 way net tie junction
+Add Class Member: Failed to add class member : Component J7 2 way net tie junction
+Add Class Member: Failed to add class member : Component J8 2 way net tie junction
+Add Class Member: Failed to add class member : Component J9 2 way net tie junction
+Add Class Member: Failed to add class member : Component J10 2 way net tie junction
+Add Class Member: Failed to add class member : Component J11 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component L1 47uH
+Added Member To Class: ClassName=ESC Member=Component L3 220O
+Add Class Member: Failed to add class member : Component MOTOR_U1 PAD
+Add Class Member: Failed to add class member : Component MOTOR_V1 PAD
+Add Class Member: Failed to add class member : Component MOTOR_W1 PAD
+Added Member To Class: ClassName=ESC Member=Component Q1 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q2 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q3 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q4 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q5 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q6 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q7 MOSFET N-CH 80V 100A SOP-8-Advance
+Added Member To Class: ClassName=ESC Member=Component Q8 MOSFET N-CH 80V 100A SOP-8-Advance
+Add Class Member: Failed to add class member : Component Q9 TRANS NPN 40V 200mA SOT-416
+Added Member To Class: ClassName=ESC Member=Component R1 10O
+Added Member To Class: ClassName=ESC Member=Component R2 10O
+Added Member To Class: ClassName=ESC Member=Component R3 10O
+Added Member To Class: ClassName=ESC Member=Component R4 100KO
+Added Member To Class: ClassName=ESC Member=Component R5 8.06O
+Added Member To Class: ClassName=ESC Member=Component R6 8.06O
+Added Member To Class: ClassName=ESC Member=Component R7 8.06O
+Added Member To Class: ClassName=ESC Member=Component R8 49.9kO
+Added Member To Class: ClassName=ESC Member=Component R9 10kO
+Added Member To Class: ClassName=ESC Member=Component R10 10kO
+Added Member To Class: ClassName=ESC Member=Component R11 17.8kO
+Added Member To Class: ClassName=ESC Member=Component R12 24.9KO
+Added Member To Class: ClassName=ESC Member=Component R13 8.06O
+Added Member To Class: ClassName=ESC Member=Component R14 8.06O
+Added Member To Class: ClassName=ESC Member=Component R15 8.06O
+Added Member To Class: ClassName=ESC Member=Component R16 10O
+Added Member To Class: ClassName=ESC Member=Component R17 10O
+Added Member To Class: ClassName=ESC Member=Component R18 10O
+Added Member To Class: ClassName=ESC Member=Component R19 10kO
+Added Member To Class: ClassName=ESC Member=Component R20 3.3mO
+Added Member To Class: ClassName=ESC Member=Component R21 3.3mO
+Added Member To Class: ClassName=ESC Member=Component R22 56O
+Added Member To Class: ClassName=ESC Member=Component R23 56O
+Added Member To Class: ClassName=ESC Member=Component R24 100kO
+Added Member To Class: ClassName=ESC Member=Component R25 2.67kO
+Added Member To Class: ClassName=ESC Member=Component R26 10kO
+Added Member To Class: ClassName=ESC Member=Component R27 10kO
+Added Member To Class: ClassName=ESC Member=Component R28 10kO
+Added Member To Class: ClassName=ESC Member=Component R29 120O
+Added Member To Class: ClassName=ESC Member=Component R31 10kO
+Added Member To Class: ClassName=ESC Member=Component R32 10kO
+Added Member To Class: ClassName=ESC Member=Component R33 33kO
+Added Member To Class: ClassName=ESC Member=Component R34 10kO
+Added Member To Class: ClassName=ESC Member=Component S1 Screw
+Added Member To Class: ClassName=ESC Member=Component S2 Screw

@@ -1,0 +1,9 @@
+Added Component: Designator=J3(PAD)
+Added Component: Designator=J4(PAD)
+Added Component: Designator=J5(PAD)
+Added Pin To Net: NetName=CAN_P Pin=J3-1
+Added Pin To Net: NetName=CAN_N Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Member To Class: ClassName=ESC Member=Component J3 PAD
+Added Member To Class: ClassName=ESC Member=Component J4 PAD
+Added Member To Class: ClassName=ESC Member=Component J5 PAD

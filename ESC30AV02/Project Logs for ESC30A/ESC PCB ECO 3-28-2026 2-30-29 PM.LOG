@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ERJPB6B1782V New DesignItemId=0603WAF1782T5E
+Change Component DesignItemId : Designator=R4 Old DesignItemId=FRC1206F1003TS New DesignItemId=RC0603FR-07100KL
+Change Component Footprint: Designator=R11 Old Footprint=R0805 New Footprint=R0603
+Change Component Footprint: Designator=R4 Old Footprint=R1206 New Footprint=R0603
+Change Component Description : Designator=R4 Old Description=100kO ±1% 250mW 1206 Thick Film Resistor New Description=100mW 100kO 75V Thick Film Resistor ±100ppm/? ±1% 0603 Chip Resistor - Surface Mount RoHS
+Change Component Description : Designator=R11 Old Description=250mW 17.8kO Thick Film Resistor ±50ppm/? ±0.1% 0805 Chip Resistor - Surface Mount RoHS New Description=17.8kO ±1% 100mW 0603 Thick Film Resistor

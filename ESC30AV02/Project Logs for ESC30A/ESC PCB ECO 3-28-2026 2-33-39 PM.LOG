@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CL21B104KCFNNNE New DesignItemId=CC0603KRX7R9BB104
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C0603
+Change Component Description : Designator=C3 Old Description=100nF ±10% 100V Ceramic Capacitor X7R 0805 New Description=100nF ±10% 50V Ceramic Capacitor X7R 0603

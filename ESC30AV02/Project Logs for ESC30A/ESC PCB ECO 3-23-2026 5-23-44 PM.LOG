@@ -1,0 +1,25 @@
+Add Component: Footprint Not Found SMB_L4.6-W3.6-LS5.3-BI
+Add Component: Footprint Not Found SOT-23-5_L3.0-W1.6-P0.95-LS2.8-BR
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-2
+Add Pin To Net: Unknown Pin: Pin IC2-3
+Add Pin To Net: Unknown Pin: Pin IC2-5
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin MOTOR_U1-1
+Add Pin To Net: Unknown Pin: Pin MOTOR_V1-1
+Add Pin To Net: Unknown Pin: Pin MOTOR_W1-1
+Add Pin To Net: Unknown Pin: Pin U1-70
+Add Class Member: Failed to add class member : Component D2 93.6V 1.5kW@10/1000us Unidirectional 58V SMC TVS Diodes RoHS
+Add Class Member: Failed to add class member : Component IC2 500mA Low-Noise LDo Voltage Regulator
+Add Class Member: Failed to add class member : Component J1 PAD
+Add Class Member: Failed to add class member : Component J2 PAD
+Add Class Member: Failed to add class member : Component J3 PAD
+Add Class Member: Failed to add class member : Component J4 PAD
+Add Class Member: Failed to add class member : Component MOTOR_U1 PAD
+Add Class Member: Failed to add class member : Component MOTOR_V1 PAD
+Add Class Member: Failed to add class member : Component MOTOR_W1 PAD

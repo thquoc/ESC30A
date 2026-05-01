@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=EN_GATE Pin=U1-10
+Added Pin To Net: NetName=DC_CAL Pin=U1-11
+Added Pin To Net: NetName=SO1 Pin=U1-14
+Added Pin To Net: NetName=SO2 Pin=U1-15
+Added Pin To Net: NetName=nSCS Pin=U1-20
+Added Pin To Net: NetName=TEMP Pin=U1-22
+Added Pin To Net: NetName=NetR28_1 Pin=U1-28
+Added Pin To Net: NetName=NetC55_2 Pin=U1-31
+Added Pin To Net: NetName=AL Pin=U1-34
+Added Pin To Net: NetName=BL Pin=U1-35
+Added Pin To Net: NetName=CL Pin=U1-36
+Added Pin To Net: NetName=PWM/DSHOT Pin=U1-37
+Added Pin To Net: NetName=AH Pin=U1-41
+Added Pin To Net: NetName=BH Pin=U1-42
+Added Pin To Net: NetName=CH Pin=U1-43
+Added Pin To Net: NetName=JTMS/SWDIO Pin=U1-46
+Added Pin To Net: NetName=NetC56_2 Pin=U1-47
+Added Pin To Net: NetName=JTCK/SWCLK Pin=U1-49
+Added Pin To Net: NetName=SCLK Pin=U1-51
+Added Pin To Net: NetName=SDO Pin=U1-52
+Added Pin To Net: NetName=SDI Pin=U1-53
+Added Pin To Net: NetName=TX Pin=U1-58
+Added Pin To Net: NetName=NetR31_2 Pin=U1-60

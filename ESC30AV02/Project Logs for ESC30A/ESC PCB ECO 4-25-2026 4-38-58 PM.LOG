@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=U NewDesignator=MOTOR_U1
+Change Component Designator: OldDesignator=V NewDesignator=MOTOR_V1
+Added Component: Designator=R21(R2512)
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=SL_B Pin=R21-2
+Added Member To Class: ClassName=ESC Member=Component R21 3.3mO

@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CC0805KKX7R0BB224 New DesignItemId=CL10B224KA8NNNC
+Change Component Footprint: Designator=C14 Old Footprint=C0805 New Footprint=C0603
+Change Component Designator: OldDesignator=MOTOR U NewDesignator=MOTOR_U1
+Change Component Designator: OldDesignator=MOTOR V NewDesignator=MOTOR_V1
+Change Component Designator: OldDesignator=MOTOR W NewDesignator=MOTOR_W1
+Change Component Description : Designator=C14 Old Description=220nF ±10% 100V Ceramic Capacitor X7R 0805 New Description=220nF ±10% 25V Ceramic Capacitor X7R 0603
+Added Component: Designator=C41(C0603)
+Added Component: Designator=C48(C0603)
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=NetC16_2 Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C48-1
+Added Pin To Net: NetName=NetC30_2 Pin=C48-2
+Added Member To Class: ClassName=ESC Member=Component C41 100nF
+Added Member To Class: ClassName=ESC Member=Component C48 100nF

@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C9 Old DesignItemId=GRM3195C1H163JA01D New DesignItemId=CC0603KRX7R9BB153
+Change Component Footprint: Designator=C9 Old Footprint=C1206 New Footprint=C0603
+Change Component Comment : Designator=C9 Old Comment=16nF New Comment=15nF
+Change Component Description : Designator=C9 Old Description=16nF ±5% 50V Ceramic Capacitor C0G 1206 New Description=10uF ±10% 10V Ceramic Capacitor X5R 0603

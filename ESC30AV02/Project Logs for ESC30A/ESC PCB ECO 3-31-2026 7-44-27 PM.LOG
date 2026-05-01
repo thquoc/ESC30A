@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SH_A Pin=MOTOR U-1
+Removed Pin From Net: NetName=SH_B Pin=MOTOR V-1
+Removed Pin From Net: NetName=SH_C Pin=MOTOR W-1
+Removed Member From Class: ClassName=ESC Member=MOTOR U
+Removed Member From Class: ClassName=ESC Member=MOTOR V
+Change Component Designator: OldDesignator=MOTOR U NewDesignator=MOTOR_U1
+Change Component Designator: OldDesignator=MOTOR V NewDesignator=MOTOR_V1
+Change Component Designator: OldDesignator=MOTOR W NewDesignator=MOTOR_W1
+Change Component Designator: OldDesignator=S NewDesignator=U1
+Added Member To Class: ClassName=ESC Member=Component L1 47uH
+Added Member To Class: ClassName=ESC Member=Component MOTOR_U1 PAD
+Added Member To Class: ClassName=ESC Member=Component MOTOR_V1 PAD
+Added Member To Class: ClassName=ESC Member=Component R20 3.3mO

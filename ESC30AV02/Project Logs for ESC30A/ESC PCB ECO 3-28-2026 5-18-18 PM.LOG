@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=C36 Old DesignItemId=JBLH2101M100E150RLM 100UF 100V New DesignItemId=EFVH100ADA101M10C0
+Change Component DesignItemId : Designator=C37 Old DesignItemId=JBLH2101M100E150RLM 100UF 100V New DesignItemId=EFVH100ADA101M10C0
+Change Component DesignItemId : Designator=C38 Old DesignItemId=JBLH2101M100E150RLM 100UF 100V New DesignItemId=EFVH100ADA101M10C0
+Change Component DesignItemId : Designator=C39 Old DesignItemId=JBLH2101M100E150RLM 100UF 100V New DesignItemId=EFVH100ADA101M10C0
+Change Component DesignItemId : Designator=C8 Old DesignItemId=JVJ100V100M12X13 New DesignItemId=EFVH100ADA101M10C0
+Change Component Footprint: Designator=C8 Old Footprint=CAP-SMD_BD12.5-L13.0-W13.0-LS13.7-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C36 Old Footprint=CAP-TH_BD10.0-P5.00-D0.6-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C37 Old Footprint=CAP-TH_BD10.0-P5.00-D0.6-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C38 Old Footprint=CAP-TH_BD10.0-P5.00-D0.6-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Footprint: Designator=C39 Old Footprint=CAP-TH_BD10.0-P5.00-D0.6-FD New Footprint=CAP-SMD_BD10.0-L10.3-W10.3-FD
+Change Component Description : Designator=C8 Old Description=100uF ±20% 100V Aluminum Electrolytic Capacitors 2000hrs@105? New Description=100uF ±20% 100V Aluminum Electrolytic Capacitors
+Change Component Description : Designator=C36 Old Description=100uF ±20% 100V Through Hole,D10xL15mm 2000hrs@105? New Description=100uF ±20% 100V Aluminum Electrolytic Capacitors
+Change Component Description : Designator=C37 Old Description=100uF ±20% 100V Through Hole,D10xL15mm 2000hrs@105? New Description=100uF ±20% 100V Aluminum Electrolytic Capacitors
+Change Component Description : Designator=C38 Old Description=100uF ±20% 100V Through Hole,D10xL15mm 2000hrs@105? New Description=100uF ±20% 100V Aluminum Electrolytic Capacitors
+Change Component Description : Designator=C39 Old Description=100uF ±20% 100V Through Hole,D10xL15mm 2000hrs@105? New Description=100uF ±20% 100V Aluminum Electrolytic Capacitors

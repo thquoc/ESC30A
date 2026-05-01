@@ -1,0 +1,12 @@
+Added Component: Designator=C49(C0805)
+Added Component: Designator=C50(C1206)
+Added Component: Designator=C52(C1206)
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=POWER_IN Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=POWER_IN Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=POWER_IN Pin=C52-2
+Added Member To Class: ClassName=ESC Member=Component C49 1uF
+Added Member To Class: ClassName=ESC Member=Component C50 10uF
+Added Member To Class: ClassName=ESC Member=Component C52 10uF

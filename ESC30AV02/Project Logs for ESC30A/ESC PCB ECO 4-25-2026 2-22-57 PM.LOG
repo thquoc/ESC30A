@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=AGND Pin=J6-2
+Removed Pin From Net: NetName=TX Pin=U1-62
+Removed Member From Class: ClassName=ESC Member=J6
+Added Component: Designator=MOTOR_U2(PAD)
+Added Component: Designator=MOTOR_U3(PAD)
+Added Component: Designator=MOTOR_U4(PAD)
+Added Component: Designator=R24(R1206)
+Added Component: Designator=R25(R1206)
+Added Pin To Net: NetName=TX Pin=MOTOR_U2-1
+Added Pin To Net: NetName=GND Pin=MOTOR_U4-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=AGND Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=DGND Pin=R25-2
+Added Pin To Net: NetName=TX Pin=U1-58
+Add Pin To Net: Unknown Pin: Pin U1-70
+Added Pin To Net: NetName=PWM/DSHOT Pin=MOTOR_U3-1
+Added Pin To Net: NetName=PWM/DSHOT Pin=U1-37
+Added Net: Name=PWM/DSHOT
+Added Member To Class: ClassName=ESC Member=Component MOTOR_U2 PAD
+Added Member To Class: ClassName=ESC Member=Component MOTOR_U3 PAD
+Added Member To Class: ClassName=ESC Member=Component MOTOR_U4 PAD
+Added Member To Class: ClassName=ESC Member=Component R24 0O
+Added Member To Class: ClassName=ESC Member=Component R25 0O
